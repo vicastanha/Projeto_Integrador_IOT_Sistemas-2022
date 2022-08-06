@@ -6,3 +6,4 @@
 ![](img/foge.jpg)
 
 # git pull eh a mistura de dois comandos - de git fetch && git merge
+# vamo la
